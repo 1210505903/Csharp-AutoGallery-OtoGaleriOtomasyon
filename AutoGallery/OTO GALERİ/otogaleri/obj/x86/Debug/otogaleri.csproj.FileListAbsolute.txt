@@ -1,0 +1,12 @@
+C:\Users\YusufGNR\Desktop\otogaleriiii\otogaleri\bin\x86\Debug\otogaleri.exe.config
+C:\Users\YusufGNR\Desktop\otogaleriiii\otogaleri\obj\x86\Debug\otogaleri.csprojResolveAssemblyReference.cache
+C:\Users\YusufGNR\Desktop\otogaleriiii\otogaleri\obj\x86\Debug\otogaleri.aracsil.resources
+C:\Users\YusufGNR\Desktop\otogaleriiii\otogaleri\obj\x86\Debug\otogaleri.aracsorgula.resources
+C:\Users\YusufGNR\Desktop\otogaleriiii\otogaleri\obj\x86\Debug\otogaleri.borcode.resources
+C:\Users\YusufGNR\Desktop\otogaleriiii\otogaleri\obj\x86\Debug\otogaleri.Form1.resources
+C:\Users\YusufGNR\Desktop\otogaleriiii\otogaleri\obj\x86\Debug\otogaleri.hesapmakinesi.resources
+C:\Users\YusufGNR\Desktop\otogaleriiii\otogaleri\obj\x86\Debug\otogaleri.kaydol.resources
+C:\Users\YusufGNR\Desktop\otogaleriiii\otogaleri\obj\x86\Debug\otogaleri.menu.resources
+C:\Users\YusufGNR\Desktop\otogaleriiii\otogaleri\obj\x86\Debug\otogaleri.Properties.Resources.resources
+C:\Users\YusufGNR\Desktop\otogaleriiii\otogaleri\obj\x86\Debug\otogaleri.hakkımda.resources
+C:\Users\YusufGNR\Desktop\otogaleriiii\otogaleri\obj\x86\Debug\otogaleri.csproj.GenerateResource.Cache
